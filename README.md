@@ -25,7 +25,7 @@ A dental clinic assistant stack: a **FastAPI** backend for patients and appointm
 
 **💬 Telegram Bot — Live Demo**
 
-![Telegram Chat](Dental_agent.png)
+![Telegram Chat](inbox.png)
 
 *Patient lookup, appointment scheduling & natural language commands*
 
